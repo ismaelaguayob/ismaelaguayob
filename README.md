@@ -22,7 +22,9 @@ En proceso de aprendizaje de:
 
 Mi correo es ismaelaguayob@gmail.com, y mi correo institucional es ismael.aguayo@ug.uchile.cl
 
+## Mis estadísticas
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelaguayob&layout=compact&theme=dark)
 
 
 <!--
