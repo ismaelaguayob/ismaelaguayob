@@ -1,43 +1,110 @@
-## Información sobre mí
+# 👋 ¡Hola! Soy Ismael Aguayo
 
-Estoy sumamente interesado en la interacción entre las tecnologías digitales, la IA y la sociedad.
-Entre estos tópicos me llaman especialmente la atención la educación, la política y el impacto del mundo digital en las relaciones sociales.
-Mis habilidades son:
-- Programación en Rstudio           
-- Estadística multivariada
-- Fundamentos de Python
-- Teoría social
+<div align="center">
 
-En proceso de aprendizaje de:
-- Modelos Machine Learning para las ciencias sociales
-- Utilización de datos no anidados
-- Modelos multinivel, estructurales y experimentales
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismael-aguayo-47780b2bb/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ismaelaguayob@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/exetrujillo)
 
-#### Actualmente estoy trabajando en varios proyectos:
-- [Gender differences in digital self-efficacy at school across 52 countries](https://github.com/milenio-nudos/pisa_study_cl)
-- [Proyecto de investigación sobre Construcción Social de la IA en la prensa utilizando machine learning y web scrapping](https://github.com/ismaelaguayob/Proyecto_API_ML_prensa)
-- [Gestión de la página web de la revista estudiantil Némesis, del departamento de sociología de la Universidad de Chile](https://github.com/nicolastobarj/nemesis_website)
+</div>
 
-[Si quieres acceder a mi curriculum, se encuentra en este link]().
+---
 
-Mi correo es ismaelaguayob@gmail.com, y mi correo institucional es ismael.aguayo@ug.uchile.cl
+## 🎓 Sobre mí
 
-## Mis estadísticas
+🔬 **Sociólogo** especializado en **análisis de datos** e **investigación social**, con experiencia en **desarrollo web**. Mi pasión radica en explorar la **relación entre la Inteligencia Artificial, la educación y la sociedad**.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismaelaguayob&layout=compact&theme=dark)
+### 🏢 Experiencia Profesional
 
+🔬 **Ayudante de Investigación** en [@milenio-nudos](https://github.com/milenio-nudos)
+- 📊 Análisis estadísticos avanzados (modelos multinivel, ecuaciones estructurales)
+- 📚 Colaboración en revisión de literatura e investigación
+- 🧠 Investigación sobre desigualdades y oportunidades digitales
 
-<!--
-**ismaelaguayob/ismaelaguayob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Proyectos Destacados
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📦 datamedios - Paquete de R
+[![GitHub](https://img.shields.io/badge/GitHub-datamedios-blue?style=flat-square&logo=github)](https://github.com/exetrujillo/datamedios)
+[![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)](https://github.com/exetrujillo/datamedios)
+
+**Creador y mantenedor** del paquete de R `datamedios` para análisis de datos de medios de comunicación.
+
+### 🏢 SocialTec
+[![Website](https://img.shields.io/badge/Website-socialtec.cl-green?style=flat-square&logo=firefox&logoColor=white)](https://socialtec.cl/)
+
+**Co-fundador** de SocialTec, una organización innovadora que busca **vincular las Ciencias Sociales con la tecnología y las herramientas digitales**, siempre desde un lente crítico y reflexivo.
+
+---
+
+## 🛠️ Stack Tecnológico
+
+### 📊 Análisis de Datos & Estadística
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+### 🌐 Desarrollo Web
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![Wagtail](https://img.shields.io/badge/Wagtail-43B02A?style=for-the-badge&logo=wagtail&logoColor=white)
+
+### 🎨 Frontend & Styling
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### 🗄️ Bases de Datos & DevOps
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+### 🤖 Machine Learning & NLP
+![Sentence-Transformers](https://img.shields.io/badge/Sentence--Transformers-FF6B6B?style=for-the-badge&logo=huggingface&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+---
+
+## 🎯 Intereses & Aprendizaje Continuo
+
+🧠 **Áreas de Especialización:**
+- 🤖 Inteligencia Artificial y sus impactos sociales
+- 📚 Tecnología educativa y pedagogía digital
+- 📊 Análisis de datos para el impacto social
+- 🔍 Procesamiento de Lenguaje Natural (NLP)
+
+💡 **Actualmente aprendiendo:** Técnicas avanzadas de NLP y desarrollo de aplicaciones con machine learning
+
+---
+
+## 🌟 ¿En qué puedo ayudarte?
+
+🚀 **Desarrollo aplicaciones y dashboards** interactivos en Python y creo soluciones de análisis de datos personalizadas.
+
+💼 **Servicios que ofrezco:**
+- 📊 Análisis y visualización de datos con R y Python
+- 🔬 Investigación social y análisis estadístico
+- 🌐 Desarrollo de aplicaciones web con Django
+- 📈 Dashboards interactivos y reportes automatizados
+- 🤖 Implementación de modelos de Machine Learning
+
+---
+
+## 📫 ¡Conectemos!
+
+¿Tienes una **idea o proyecto interesante**? ¿Necesitas apoyo en **procesamiento y análisis de datos** con R o Python? 
+
+<div align="center">
+
+[![Email](https://img.shields.io/badge/📧_ismaelaguayob@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ismaelaguayob@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismael-aguayo-47780b2bb/)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Construyendo puentes entre las Ciencias Sociales y la tecnología para un impacto social positivo"* 🌍✨
+
+</div>
