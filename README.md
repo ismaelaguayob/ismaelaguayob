@@ -85,7 +85,7 @@
 - 🔬 Investigación social y análisis estadístico
 - 🌐 Desarrollo de aplicaciones web con Django
 - 📈 Dashboards interactivos y reportes automatizados
-- 🤖 Implementación de modelos de Machine Learning
+- 🤖 Implementación de modelos de Machine Learning y LLMs
 
 ---
 
@@ -98,13 +98,5 @@
 [![Email](https://img.shields.io/badge/📧_ismaelaguayob@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ismaelaguayob@gmail.com)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismael-aguayo-47780b2bb/)
-
-</div>
-
----
-
-<div align="center">
-
-*"Construyendo puentes entre las Ciencias Sociales y la tecnología para un impacto social positivo"* 🌍✨
 
 </div>
