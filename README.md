@@ -29,10 +29,10 @@
 [![GitHub](https://img.shields.io/badge/GitHub-datamedios-blue?style=flat-square&logo=github)](https://github.com/exetrujillo/datamedios)
 [![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)](https://github.com/exetrujillo/datamedios)
 
-**Creador y mantenedor** del paquete de R `datamedios` para análisis de datos de medios de comunicación.
+**Creador y mantenedor** del paquete de R `datamedios` para extracción y análisis de datos de medios de comunicación.
 
 ### 🏢 SocialTec
-[![Website](https://img.shields.io/badge/Website-socialtec.cl-green?style=flat-square&logo=firefox&logoColor=white)](https://socialtec.cl/)
+[![Website](https://socialtec.cl/static/images/logo-new.b43880a0a028.svg)](https://socialtec.cl/)
 
 **Co-fundador** de SocialTec, una organización innovadora que busca **vincular las Ciencias Sociales con la tecnología y las herramientas digitales**, siempre desde un lente crítico y reflexivo.
 
@@ -61,6 +61,14 @@
 ### 🤖 Machine Learning & NLP
 ![Sentence-Transformers](https://img.shields.io/badge/Sentence--Transformers-FF6B6B?style=for-the-badge&logo=huggingface&logoColor=white)
 ![NLP](https://img.shields.io/badge/NLP-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs_APIs-00C851?style=for-the-badge&logo=openai&logoColor=white) 
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+### ☁️ Hosting & Despliegue
+
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white) 
+![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-1D9FD7?style=for-the-badge&logo=python&logoColor=white) 
+![Self-hosting](https://img.shields.io/badge/Self-hosting-FF6B35?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 ---
 
@@ -69,10 +77,10 @@
 🧠 **Áreas de Especialización:**
 - 🤖 Inteligencia Artificial y sus impactos sociales
 - 📚 Tecnología educativa y pedagogía digital
-- 📊 Análisis de datos para el impacto social
+- 📊 Análisis de datos con impacto social
 - 🔍 Procesamiento de Lenguaje Natural (NLP)
 
-💡 **Actualmente aprendiendo:** Técnicas avanzadas de NLP y desarrollo de aplicaciones con machine learning
+💡 **Actualmente aprendiendo:** Técnicas avanzadas de NLP, optimización de pipelines con LLMs y Self-hosting.
 
 ---
 
@@ -85,7 +93,7 @@
 - 🔬 Investigación social y análisis estadístico
 - 🌐 Desarrollo de aplicaciones web con Django
 - 📈 Dashboards interactivos y reportes automatizados
-- 🤖 Implementación de modelos de Machine Learning y LLMs
+- 🤖 Implementación de modelos de Machine Learning y pipelines con LLMs
 
 ---
 
