@@ -31,10 +31,11 @@
 
 **Creador y mantenedor** del paquete de R `datamedios` para extracción y análisis de datos de medios de comunicación.
 
-### 🏢 SocialTec
-[![Website](https://socialtec.cl/static/images/logo-new.b43880a0a028.svg)](https://socialtec.cl/)
+### <img src="https://socialtec.cl/static/images/logo-new.b43880a0a028.svg" alt="SocialTec" height="24" style="vertical-align: middle;"> SocialTec
 
-**Co-fundador** de SocialTec, una organización innovadora que busca **vincular las Ciencias Sociales con la tecnología y las herramientas digitales**, siempre desde un lente crítico y reflexivo.
+[![Website](https://img.shields.io/badge/Website-socialtec.cl-green?style=flat-square&logo=firefox&logoColor=white)](https://socialtec.cl/)
+
+**Co-fundador** de SocialTec, una organización que busca **vincular las Ciencias Sociales con la tecnología y las herramientas digitales**, con un lente crítico y reflexivo.
 
 ---
 
@@ -44,6 +45,8 @@
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Quarto](https://img.shields.io/badge/Quarto-75AADB?style=for-the-badge&logo=quarto&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
 ### 🌐 Desarrollo Web
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
