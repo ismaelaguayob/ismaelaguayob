@@ -12,11 +12,9 @@
 
 ## 🎓 Sobre mí
 
-🔬 **Sociólogo** especializado en **análisis de datos** e **investigación social**, con experiencia en **desarrollo web**. Mi pasión radica en explorar la **relación entre la Inteligencia Artificial, la educación y la sociedad**.
+🔬 Ayudante de investigación en @milenio-nudos, estudiante y analista de datos, con experiencia en desarrollo web. 
 
 ### 🏢 Experiencia Profesional
-
-🔬 **Ayudante de Investigación** en [@milenio-nudos](https://github.com/milenio-nudos)
 - 📊 Análisis estadísticos avanzados (modelos multinivel, ecuaciones estructurales)
 - 📚 Colaboración en revisión de literatura e investigación
 - 🧠 Investigación sobre desigualdades y oportunidades digitales
@@ -35,7 +33,7 @@
 
 [![Website](https://img.shields.io/badge/Website-socialtec.cl-green?style=flat-square&logo=firefox&logoColor=white)](https://socialtec.cl/)
 
-**Co-fundador** de SocialTec, una organización que busca **vincular las Ciencias Sociales con la tecnología y las herramientas digitales**, con un lente crítico y reflexivo.
+**Co-fundador** de SocialTec, una organización que busca **vincular las Ciencias Sociales con la tecnología y las herramientas digitales**.
 
 ---
 
@@ -44,7 +42,6 @@
 ### 📊 Análisis de Datos & Estadística
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Quarto](https://img.shields.io/badge/Quarto-75AADB?style=for-the-badge&logo=quarto&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
@@ -53,45 +50,27 @@
 ![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![Wagtail](https://img.shields.io/badge/Wagtail-43B02A?style=for-the-badge&logo=wagtail&logoColor=white)
 
-### 🎨 Frontend & Styling
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
 ### 🗄️ Bases de Datos & DevOps
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### 🤖 Machine Learning & NLP
 ![Sentence-Transformers](https://img.shields.io/badge/Sentence--Transformers-FF6B6B?style=for-the-badge&logo=huggingface&logoColor=white)
-![NLP](https://img.shields.io/badge/NLP-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs_APIs-00C851?style=for-the-badge&logo=openai&logoColor=white) 
+![BERTopic](https://img.shields.io/badge/BERTopic-4285F4?style=for-the-badge&logo=B&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-### ☁️ Hosting & Despliegue
-
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white) 
-![PythonAnywhere](https://img.shields.io/badge/PythonAnywhere-1D9FD7?style=for-the-badge&logo=python&logoColor=white) 
-![Self-hosting](https://img.shields.io/badge/Self-hosting-FF6B35?style=for-the-badge&logo=ubuntu&logoColor=white)
-
 ---
 
-## 🎯 Intereses & Aprendizaje Continuo
+## 🎯 Intereses
 
-🧠 **Áreas de Especialización:**
 - 🤖 Inteligencia Artificial y sus impactos sociales
-- 📚 Tecnología educativa y pedagogía digital
-- 📊 Análisis de datos con impacto social
+- 📚 Educación
 - 🔍 Procesamiento de Lenguaje Natural (NLP)
 
-💡 **Actualmente aprendiendo:** Técnicas avanzadas de NLP, optimización de pipelines con LLMs y Self-hosting.
-
 ---
 
-## 🌟 ¿En qué puedo ayudarte?
+## 🌟 ¿Qué hago?
 
-🚀 **Desarrollo aplicaciones y dashboards** interactivos en Python y creo soluciones de análisis de datos personalizadas.
-
-💼 **Servicios que ofrezco:**
 - 📊 Análisis y visualización de datos con R y Python
 - 🔬 Investigación social y análisis estadístico
 - 🌐 Desarrollo de aplicaciones web con Django
@@ -102,7 +81,7 @@
 
 ## 📫 ¡Conectemos!
 
-¿Tienes una **idea o proyecto interesante**? ¿Necesitas apoyo en **procesamiento y análisis de datos** con R o Python? 
+¿Tienes una **idea o proyecto interesante**? 
 
 <div align="center">
 
