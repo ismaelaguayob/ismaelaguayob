@@ -12,7 +12,7 @@
 
 ## 🎓 Sobre mí
 
-🔬 Ayudante de investigación en @milenio-nudos, estudiante y analista de datos, con experiencia en desarrollo web. 
+🔬 Ayudante de investigación en @milenio-nudos, estudiante de sociología y analista de datos, con experiencia en desarrollo web. 
 
 ### 🏢 Experiencia Profesional
 - 📊 Análisis estadísticos avanzados (modelos multinivel, ecuaciones estructurales)
