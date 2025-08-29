@@ -25,7 +25,7 @@
 
 ### 📦 datamedios - Paquete de R
 [![GitHub](https://img.shields.io/badge/GitHub-datamedios-blue?style=flat-square&logo=github)](https://github.com/exetrujillo/datamedios)
-[![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)](https://github.com/exetrujillo/datamedios)
+[![DOI](https://zenodo.org/badge/901536889.svg)](https://doi.org/10.5281/zenodo.16990419)
 
 **Creador y mantenedor** del paquete de R `datamedios` para extracción y análisis de datos de medios de comunicación.
 
