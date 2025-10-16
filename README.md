@@ -18,6 +18,7 @@
 - 📊 Análisis estadísticos avanzados (modelos multinivel, ecuaciones estructurales)
 - 📚 Colaboración en revisión de literatura e investigación
 - 🧠 Investigación sobre desigualdades y oportunidades digitales
+- 🧪 Procedimientos reproducibles y ciencia abierta
 
 ---
 
