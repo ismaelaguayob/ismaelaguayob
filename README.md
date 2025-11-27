@@ -14,10 +14,10 @@
 
 🔬 Ayudante de investigación en @milenio-nudos, estudiante de sociología y analista de datos, con experiencia en desarrollo web. 
 
-### 🏢 Experiencia Profesional
-- 📊 Análisis estadísticos avanzados (modelos multinivel, ecuaciones estructurales)
-- 📚 Colaboración en revisión de literatura e investigación
-- 🧠 Investigación sobre desigualdades y oportunidades digitales
+### 🏢 Experiencia
+- 📊 Modelamiento estadístico (modelos multinivel, ecuaciones estructurales)
+- 📚 Investigación en Ciencias Sociales digitales
+- 🧠 Machine learning e Inteligencia Artificial
 - 🧪 Procedimientos reproducibles y ciencia abierta
 
 ---
@@ -64,19 +64,20 @@
 
 ## 🎯 Intereses
 
-- 🤖 Inteligencia Artificial y sus impactos sociales
-- 📚 Educación
+- 🤖 Transformaciones sociales y su impacto político, social y psicológico
 - 🔍 Procesamiento de Lenguaje Natural (NLP)
+- 📚 Psicometría y modelamiento estadístico
+- 🌐 Desarrollo back-end
 
 ---
 
 ## 🌟 ¿Qué hago?
 
-- 📊 Análisis y visualización de datos con R y Python
-- 🔬 Investigación social y análisis estadístico
-- 🌐 Desarrollo de aplicaciones web con Django
+- 🔬 Investigación social y análisis de datos
+- 🌐 Desarrollo de aplicaciones con Django
 - 📈 Dashboards interactivos y reportes automatizados
 - 🤖 Implementación de modelos de Machine Learning y pipelines con LLMs
+- 📊 Visualización de datos con R y Python
 
 ---
 
