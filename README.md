@@ -38,7 +38,7 @@
 
 [![Website](https://img.shields.io/badge/Website-socialtec.cl-green?style=flat-square&logo=firefox&logoColor=white)](https://socialtec.cl/)
 
-**Co-fundador** de [SocialTec](https://socialtec.cl), una organización que busca **vincular las Ciencias Sociales con la tecnología y las herramientas digitales**.
+**Co-fundador** de [SocialTec](https://socialtec.cl), una organización que busca **vincular las Ciencias Sociales con la tecnología y las herramientas digitales**. Puedes revisar nuestros proyectos abiertos en [nuestro GitLab](https://gitlab.com/socialtec-cl).
 
 ---
 
