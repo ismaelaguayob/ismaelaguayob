@@ -40,6 +40,10 @@
 
 **Co-fundador** de [SocialTec](https://socialtec.cl), una organización que busca **vincular las Ciencias Sociales con la tecnología y las herramientas digitales**. Puedes revisar nuestros proyectos abiertos en [nuestro GitLab](https://gitlab.com/socialtec-cl).
 
+### Facso-papers - Aplicación
+
+**Desarrollador** de aplicación para caracterizar la producción académica de los profesores de la FACSO UChile, a través de una pipeline de NLP con BERTopic y Gemini API, y utilizando Django, DRF y PostgreSQL para desarrollar la aplicación. [Link](https://socialtec.cl/herramientas/facso-papers/). [Repositorio en Gitlab](https://gitlab.com/socialtec-cl/facso-papers-viz).
+
 ---
 
 ## 🛠️ Stack Tecnológico
