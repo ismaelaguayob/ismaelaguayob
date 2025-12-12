@@ -113,8 +113,39 @@
 
 - [El crédito como una herramienta de las clases altas](https://revistanemesis.uchile.cl/index.php/RN/article/view/81678). Revista Némesis.
 - [Tutorial de procesamiento y limpieza de texto en R](https://socialtec.cl/articulos/procesamiento-y-limpieza-de-texto-con-stringr-regex-y-la-inteligencia-artificial/)
-- (Working Paper) [Measuring Digital Self-Efficacy in International Large-Scale Assessments: A Comparison Between ICILS and PISA
-  ](https://github.com/milenio-nudos/picils_dse]
+- (Working Paper) [Measuring Digital Self-Efficacy in International Large-Scale Assessments: A Comparison Between ICILS and PISA](https://github.com/milenio-nudos/picils_dse)
+
+---
+
+## 📑 Talleres
+
+- Análisis cualitativo para grandes volúmenes de texto en [LatinR 2025](https://latinr.org)
+  - [Repositorio](https://github.com/ismaelaguayob/taller-llms-analisis-cualitativo)
+  -  Video de Youtube (próximamanete)
+- Flujo de investigación con Git, GitHub y VsCode para la Escuela de Invierno ElSoc 2025.
+  - [Link presentación](https://lisa-coes.github.io/taller-vsc-github/taller-elsoc/taller-elsoc-2025.html#/section)
+
+---
+
+## 🎙️ Conferencias
+
+### Expositor
+**Measuring Digital Self-Efficacy in International Large-Scale Assessments: A Comparison Between ICILS and PISA:**
+- [XII Conferencia internacional COES](https://milenio-nudos.github.io/picils_dse/output/conferences/coes2025/docs.html#/medici%C3%B3n-de-autoeficacia-digital-y-diferencias-de-g%C3%A9nero-en-evaluaciones-internacionales-de-gran-escala)
+
+**El crédito como una herramienta de las clases altas:**
+- [Lanzamiento número XX Revista Némesis](https://www.canva.com/design/DAG4P31fpmk/On8wPwUhW7mdsQcA-ktXkg/view?utm_content=DAG4P31fpmk&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=hbea59b0051)
+ 
+### Co-autor
+
+**Measuring Digital Self-Efficacy in International Large-Scale Assessments: A Comparison Between ICILS and PISA:**
+- [XI Congreso de la Sociedad de Psicología](https://milenio-nudos.github.io/picils_dse/output/conferences/SCP2025/docs.html#/medici%C3%B3n-de-autoeficacia-digital-y-diferencias-de-g%C3%A9nero-en-evaluaciones-internacionales-de-gran-escala)
+**El crédito como una herramienta de las clases altas:**
+- [X Seminar: "Data from and for the education system: tools for research and teaching](https://milenio-nudos.github.io/picils_dse/output/conferences/invalsi2025P/docs.html#/)
+  
+**Gender differences in digital self-efficacy at school across 52 countries:**
+- [5th ISA Forum of Sociology](https://milenio-nudos.github.io/pisa_study_cl/output/presentations/isa2025/docs.html#/digital-self-efficacy-measurement-and-gender-differences-between-52-countries-in-pisa)
+- [VIII Seminario de Desigualdad y Movilidad Social en América Latina](https://milenio-nudos.github.io/pisa_study_cl/output/presentations/demosal_2025/docs.html#/diferencias-de-g%C3%A9nero-en-la-autoeficacia-digital-en-la-escuela-en-52-pa%C3%ADses)
 
 ---
 
