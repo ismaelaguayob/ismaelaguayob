@@ -42,7 +42,9 @@
 
 ### Facso-papers - Aplicación
 
-**Desarrollador** de aplicación para caracterizar la producción académica de los profesores de la FACSO UChile, a través de una pipeline de NLP con BERTopic y Gemini API, y utilizando Django, DRF y PostgreSQL para desarrollar la aplicación. [Link](https://socialtec.cl/herramientas/facso-papers/). [Repositorio en Gitlab](https://gitlab.com/socialtec-cl/facso-papers-viz).
+[![Website](https://img.shields.io/badge/Website-socialtec.cl-green?style=flat-square&logo=firefox&logoColor=white)](https://socialtec.cl/herramientas/facso-papers/)
+
+**Desarrollador** de aplicación para caracterizar la producción académica de los profesores de la FACSO UChile, a través de una pipeline de NLP con BERTopic y Gemini API, y utilizando Django, DRF y PostgreSQL para desarrollar la aplicación. [Repositorio en Gitlab](https://gitlab.com/socialtec-cl/facso-papers-viz).
 
 ---
 
