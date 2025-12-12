@@ -62,6 +62,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Zotero](https://img.shields.io/badge/Zotero-CC2936?style=for-the-badge&logo=zotero&logoColor=white)
+![Zenodo](https://img.shields.io/badge/Zenodo-1682D4?style=for-the-badge&logo=zenodo&logoColor=white)
 ![Positron](https://img.shields.io/badge/Positron-447099?style=for-the-badge&logo=posit&logoColor=white)
 
 ### 🤖 Procesamiento de Lenguaje Natural
@@ -104,6 +105,15 @@
 - 🤖 Análisis de datos no estructurados (sobre todo texto) para Ciencias Sociales
 - 📊 Visualización de datos con R y Python
 - 🌐 Desarrollo y despliegue de APIs con Django 
+
+---
+
+## 📝 Artículos
+
+- [El crédito como una herramienta de las clases altas](https://revistanemesis.uchile.cl/index.php/RN/article/view/81678). Revista Némesis.
+- [Tutorial de procesamiento y limpieza de texto en R](https://socialtec.cl/articulos/procesamiento-y-limpieza-de-texto-con-stringr-regex-y-la-inteligencia-artificial/)
+- (Working Paper) [Measuring Digital Self-Efficacy in International Large-Scale Assessments: A Comparison Between ICILS and PISA
+  ](https://github.com/milenio-nudos/picils_dse]
 
 ---
 
