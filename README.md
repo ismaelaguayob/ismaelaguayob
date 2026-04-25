@@ -32,9 +32,9 @@ Asistente de investigación en el Centro Nacional de Inteligencia Artificial, li
 [![GitHub](https://img.shields.io/badge/GitHub-datamedios-blue?style=flat-square&logo=github)](https://github.com/exetrujillo/datamedios)
 [![DOI](https://zenodo.org/badge/901536889.svg)](https://doi.org/10.5281/zenodo.16990419)
 
-### <img src="https://socialtec.cl/static/images/logo-new.b43880a0a028.svg" alt="SocialTec" height="24" style="vertical-align: middle;"> SocialTec
+### <img src="https://socialtec.cl/logo.svg" alt="SocialTec" height="32" style="vertical-align: middle;"> SocialTec
 
-[![Website](https://img.shields.io/badge/Website-socialtec.cl-green?style=flat-square&logo=firefox&logoColor=white)](https://socialtec.cl/)
+[![Website](https://img.shields.io/badge/Website-socialtec.cl-magenta?style=flat-square&logo=firefox&logoColor=white)](https://socialtec.cl/)
 
 ---
 
@@ -50,18 +50,18 @@ Asistente de investigación en el Centro Nacional de Inteligencia Artificial, li
 ### 🔄 Flujo de investigación reproducible
 ![Quarto](https://img.shields.io/badge/Quarto-75AADB?style=for-the-badge&logo=quarto&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![GIT](badge)
+![GIT](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Zotero](https://img.shields.io/badge/Zotero-CC2936?style=for-the-badge&logo=zotero&logoColor=white)
 
 ### 🤖 Procesamiento de Lenguaje Natural y LLMs
 ![Sentence-Transformers](https://img.shields.io/badge/Sentence--Transformers-FF6B6B?style=for-the-badge&logo=huggingface&logoColor=white)
 ![BERTopic](https://img.shields.io/badge/BERTopic-4285F4?style=for-the-badge&logo=python&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 ### 🌐 Desarrollo Web & Back-end
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
